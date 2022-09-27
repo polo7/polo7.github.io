@@ -6,6 +6,8 @@ entries:
     entries:
       - title: about me
         url: about.html
+      - title: blog
+        url: archive.html
       - title: github repo
         url: https://github.com/polo7
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a></a>"
@@ -17,15 +19,15 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  #- title: posts by category
-  #  post_list:
-  #    category: example2
-  #    show_more: true
-  #    show_more_text: See more posts...
-  #    show_more_url: example2-archive.html
+  - title: posts by category
+    post_list:
+      category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+#  - title: rss
+#    url: feed.xml
   
 #  - title: another list
 #    entries:
