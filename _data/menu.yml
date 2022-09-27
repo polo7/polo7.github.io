@@ -3,7 +3,7 @@
 
 entries:
   - title: about me
-    url: about.html
+#    url: about.html
 #   - title: blog
 #     url: archive.html
 #      - title: github repo
