@@ -2,26 +2,19 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: projects
+    url: projects.html
   - title: about me
     url: about.html
   - title: blog
     url: archive.html
-  - title: github repo
-    url: https://github.com/polo7
-  - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a></a>"
-  - title: blog v2
-    post_list:
-      limit: 0
-      show_more: true
-      show_more_text: bloggg
-      show_more_url: archive.html
 
-#   - title: recent posts
-#     post_list:
-#       limit: 1
-#       show_more: true
-#       show_more_text: See archive...
-#       show_more_url: archive.html
+  - title: recent blog posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: more ...
+      show_more_url: archive.html
 
 #   - title: posts by category
 #     post_list:
