@@ -1,10 +1,10 @@
-title: Oh my polo! # name of the site
+title: oh my polo! # name of the site
 author: Roman Lesechko # name of site's author
 email:  not@now.xx # email of site's author
 url: https://polo7.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Personal web site
+  software development, project management
 permalink: /:slug.html
 
 # favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
@@ -15,13 +15,13 @@ permalink: /:slug.html
 remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "< back" # customize text for homepage link in post layout
+  back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
   
 sass:
   style: :compressed
 
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
