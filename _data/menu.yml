@@ -5,7 +5,7 @@ entries:
   - title: about me
     url: about.html
   - title: blog
-    url: _layouts/archive.html
+    url: archive.html
   - title: github repo
     url: https://github.com/polo7
   - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a></a>"
