@@ -1,6 +1,5 @@
 <p>
-  {% assign previous = this_page_index | minus: 1 %}
-  <a href="{{ previous | relative_url }}">{{ site.theme_config.back_prev_page_text }}</a> 
+  <a href="{{ <script>document.referrer</script> | relative_url }}">{{ site.theme_config.back_prev_page_text }}</a> 
   |
   <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 </p>
