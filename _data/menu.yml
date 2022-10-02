@@ -3,7 +3,7 @@
 
 entries:
   - title: projects
-    url: projects.html
+    url: projects/
   - title: about me
     url: about.html
   - title: blog
