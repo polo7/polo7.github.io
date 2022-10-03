@@ -1,5 +1,9 @@
 <p>
   <a href="javascript: history.go(-1)">{{ site.theme_config.back_prev_page_text }}</a> 
   |
+  <script>
+    document.write('<a href="' + document.referrer + '">Go back</a>');
+  </script>
+  |
   <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 </p>
