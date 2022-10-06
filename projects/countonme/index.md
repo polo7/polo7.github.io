@@ -3,14 +3,14 @@ layout: page
 title: CountOnMe Tally Counter
 ---
 ### Description
-![CountOnMe logo](countonme150.png)
+<div style="text-align:center">![CountOnMe logo](countonme150.png)</div>
 > If your fingers are not enough!
 
 CountOnMe is a simple and easy-to-use Tally Counter app which is able to
 - count in both directions (positive and negative values)
 - set an initial value
 - record a timestamp of the last count
-![Download on the AppStore](app-store-badge.png)
+[![Download on the AppStore](app-store-badge.png)](https://apps.apple.com/mt/app/countonme-tally-counter/id1631746756)
 
 ### Privacy Policy
 This app does NOT collect any user data, does NOT contain any trackers, does NOT require neither user’s registration nor authorization. 
