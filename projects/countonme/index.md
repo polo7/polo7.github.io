@@ -3,7 +3,7 @@ layout: page
 title: CountOnMe Tally Counter
 ---
 ### Description
-![countonme logo](countonme.png)
+![countonme logo](countonme150.png)
 CountOnMe is a simple and easy-to-use Tally Counter app which is able to
 - count in both directions (positive and negative values)
 - set an initial value
