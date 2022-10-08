@@ -8,11 +8,11 @@
     }
   }
   
-  body[a="auto"] { @include dark-appearance; }
+  body[a="dark"] { @include dark-appearance; }
   
   
   @media (prefers-color-scheme: dark) {
-    body[a="dark"] { @include dark-appearance; }
+    body[a="auto"] { @include dark-appearance; }
   }
   // -------------------------------------------- //
   
