@@ -12,7 +12,7 @@
   
   
   @media (prefers-color-scheme: dark) {
-    body[a="auto"] { @include dark-appearance; }
+    body[a="dark"] { @include dark-appearance; }
   }
   // -------------------------------------------- //
   
