@@ -11,7 +11,7 @@ CountOnMe is a simple and easy-to-use Tally Counter app which is able to
 - set an initial value
 - record a timestamp of the last count
 
-[![Download on the AppStore](assets/img/app-store-badge.svg)](https://apps.apple.com/mt/app/countonme-tally-counter/id1631746756)
+[![Download on the AppStore](/assets/img/app-store-badge.svg)](https://apps.apple.com/mt/app/countonme-tally-counter/id1631746756)
 
 ### Privacy Policy
 This app does NOT collect any user data, does NOT contain any trackers, does NOT require neither user’s registration nor authorization. 
