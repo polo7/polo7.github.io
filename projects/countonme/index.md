@@ -3,7 +3,7 @@ layout: page
 title: CountOnMe Tally Counter
 ---
 ### Description
-![CountOnMe logo](countonme150.png)
+![CountOnMe logo](countonme150.png){:.ioda}
 > If your fingers are not enough!
 
 CountOnMe is a simple and easy-to-use Tally Counter app which is able to
