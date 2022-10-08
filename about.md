@@ -3,11 +3,11 @@ layout: page
 title: About me
 ---
 
-<p>
+<p float="left" align="center">
   <a href="https://twitter/ohmypolo"><img src="/assets/img/twitter.svg" height="48" width="48"></a><a href="https://linkedin.com/"><img src="/assets/img/linkedin.svg" height="48" width="48"></a>
   <a href="https://github.com/polo7"><img src="/assets/img/github.svg" height="48" width="48"></a>
 </p>
-<p>
+<p float="left" align="center">
   <a href="https://twitter/ohmypolo"><img src="/assets/img/twitter-colored.svg" height="48" width="48"></a>
   <a href="https://linkedin.com/"><img src="/assets/img/linkedin-colored.svg" height="48" width="48"></a>
   <a href="https://github.com/polo7"><img src="/assets/img/github.svg" height="48" width="48"></a>
