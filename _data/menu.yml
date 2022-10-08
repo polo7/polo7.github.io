@@ -9,7 +9,7 @@ entries:
   - title: blog
     url: archive.html
     entries:
-      - title: recent blog posts
+      - title: recent posts
         post_list:
           limit: 5
           show_more: true
