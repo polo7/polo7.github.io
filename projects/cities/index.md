@@ -9,6 +9,7 @@ Telegram bot plays game of "Cities" and implements basic functionality:
 - If there are no cities starting with this letter then it is allowed to skip to the next letter 
 (from right to left)
 - First who fails to reply loses the game.
+
 Since the bot uses database of the russian Tax Office it plays in russian language only.
 You can feed him any list of cities by your choice in order to customize UX. 
 Just change letters (LOCAL_A, LOCAL_Z) in settings.py specific to your alphabet and list of cities.
@@ -21,4 +22,5 @@ Just change letters (LOCAL_A, LOCAL_Z) in settings.py specific to your alphabet 
 
 ### Bot on Telegram
 [PlayGoroda_bot](https://t.me/PlayGoroda_bot)
+
 *bot have been deployed using free Python-hosting, that is why it is not available 24/7.
