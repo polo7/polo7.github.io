@@ -14,8 +14,9 @@ Since the bot uses database of the russian Tax Office it plays in russian langua
 You can feed him any list of cities by your choice in order to customize UX. 
 Just change letters (LOCAL_A, LOCAL_Z) in settings.py specific to your alphabet and list of cities.
 
-### Tech
-[AIOGRAM](https://docs.aiogram.dev/en/latest/) asynchronous framework for Telegram Bot API
+### Tech. stack:
+- Python
+- [AIOGRAM](https://docs.aiogram.dev/en/latest/) asynchronous framework for Telegram Bot API
 
 ### Github
 [https://github.com/polo7/tgb-aiogram-cities/](https://github.com/polo7/tgb-aiogram-cities/)
@@ -23,4 +24,4 @@ Just change letters (LOCAL_A, LOCAL_Z) in settings.py specific to your alphabet 
 ### Bot on Telegram
 [PlayGoroda_bot](https://t.me/PlayGoroda_bot)
 
-*bot have been deployed using free Python-hosting, that is why it is not available 24/7.
+*bot has been deployed using free Python-hosting, that is why it is not available 24/7.
