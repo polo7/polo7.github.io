@@ -3,7 +3,7 @@ layout: page
 title: my projects
 ---
 
-- <a href="./costofliving/">Swift iOS app: Cost of Living</a>
+- <a href="./bullsandcows/">Swift iOS app: Bulls and Cows Classic</a>
 - <a href="./countonme/">Swift iOS app: CountOnMe</a>
 - <a href="./iseven/">Swift package: isEvenSwift</a>
 - <a href="./cities/">Python Telegram bot: Shared Buyings</a>
