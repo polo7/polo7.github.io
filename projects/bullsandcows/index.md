@@ -3,12 +3,12 @@ layout: page
 title: Bulls and Cows Classic
 ---
 ### Description
-![Bulls and Cows logo](bullsandcows150.png){:.ioda}
+![Bulls and Cows logo](bullsandcows180.png){:.ioda}
 > Crack the code!
 
-Bulls and Cows Classic app is the iOS realization of well-known logic puzzle game. Rules are quite simple. You have a code of 4 digits. Make your guesses by entering different numbers. Computer gives you hits with bulls and cows:
-- If you have correct digit in correct place then you have a bull
-- If you have correct digit but in wrong place then you have a cow
+Bulls and Cows Classic app is the iOS realization of well-known logic puzzle game. Rules are quite simple. You have a code of 4 digits. All digits are unique and the 1st digit can't be a zero. Make your guesses by entering different numbers. The game gives you hints with number of bulls and cows:
+- if you have correct digit in correct place then you have a bull
+- if you have correct digit but in wrong place then you have a cow
 
 <!--
 [![Download on the AppStore](/assets/img/app-store-badge.svg){:.ioda}](https://apps.apple.com/mt/app/countonme-tally-counter/id1631746756)
