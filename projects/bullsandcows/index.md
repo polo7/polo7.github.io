@@ -10,9 +10,7 @@ Bulls and Cows Classic app is the iOS realization of well-known logic puzzle gam
 - if you have correct digit in correct place then you have a bull
 - if you have correct digit but in wrong place then you have a cow
 
-<!--
-[![Download on the AppStore](/assets/img/app-store-badge.svg){:.ioda}](https://apps.apple.com/mt/app/countonme-tally-counter/id1631746756)
--->
+[![Download on the AppStore](/assets/img/app-store-badge.svg){:.ioda}](https://apps.apple.com/ru/app/bulls-and-cows-classic/id6450652855)
 
 ### Privacy Policy
 This app does NOT collect any user data, does NOT contain any trackers, does NOT require neither user’s registration nor authorization. 
