@@ -16,4 +16,4 @@ Bot will reply with funny GIF representing the answer.
 [https://github.com/polo7/](https://github.com/polo7/)
 
 ### Bot on Telegram
-[PlayGoroda_bot](https://t.me/YesNoAdviser_bot)
+[YesNoAdviser_bot](https://t.me/YesNoAdviser_bot)
