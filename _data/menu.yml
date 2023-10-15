@@ -8,13 +8,13 @@ entries:
     url: about.html
   - title: blog
     url: archive.html
-    entries:
-      - title: recent posts
-        post_list:
-          limit: 5
-          show_more: true
-          show_more_text: more ...
-          show_more_url: archive.html
+    # entries:
+    #   - title: recent posts
+    #     post_list:
+    #       limit: 5
+    #       show_more: true
+    #       show_more_text: more ...
+    #       show_more_url: archive.html
 
 #   - title: posts by category
 #     post_list:

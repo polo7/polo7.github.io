@@ -11,9 +11,8 @@ Bot will reply with funny GIF representing the answer.
 - JSON
 - [TelegramBots](https://github.com/rubenlagus/TelegramBots/) Java library to create bots using Telegram Bots API
 - Maven
-
-### Github
-[https://github.com/polo7/](https://github.com/polo7/)
+<!-- ### Github
+[https://github.com/polo7/](https://github.com/polo7/) -->
 
 ### Bot on Telegram
 [YesNoAdviser_bot](https://t.me/YesNoAdviser_bot)
