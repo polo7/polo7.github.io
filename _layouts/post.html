@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{%-include back_link.html-%}
+
+<article>
+  <p class="post-meta">
+    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+  </p>
+  
+  <!-- As it surpresses mixed letter cases I prefer to write header manually in particular post. -->
+  <!-- <h1>{{ page.title }}</h1> -->
+
+  {{ content }}
+</article>

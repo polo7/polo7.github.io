@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<header>
+  <h1>{{ site.title }}</h1>
+  {%-if site.theme_config.show_description-%}
+    <p>{{ site.description }}</p>
+  {%-endif-%}
+</header>
+
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{{ content }}
+
+<p align="center">
+  <a href="https://twitter.com/ohmypolo"><img class="ioda" src="/assets/img/twitter.svg" height="24" width="24" alt="Twitter" style="display: inline-block;"></a>
+  <a href="https://t.me/polo777"><img class="ioda" src="/assets/img/telegram.svg" height="24" width="24" alt="Telegram" style="display: inline-block;"></a>
+  <a href="https://linkedin.com/"><img class="ioda" src="/assets/img/linkedin.svg" height="24" width="24" alt="LinkedIn" style="display: inline-block;"></a>
+  <a href="https://github.com/polo7"><img class="ioda" src="/assets/img/github.svg" height="24" width="24" alt="GitHub" style="display: inline-block;"></a>
+</p>
